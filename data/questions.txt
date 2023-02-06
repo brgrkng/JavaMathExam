@@ -1,0 +1,10 @@
+0;If p and q are integers and is represented in the form of p/q, then it is a:;Whole number;Rational number;Natural number;Even number;1
+0;Which is greater than 4?;5;-5;-1/2;-25;0
+0;What is 23.4571 correct to 4 significant figures?;23.00;23.46;23.40;23.45;1
+0;The least number that is divisible by all the numbers from 1 to 5 is:;70;60;80;90;1
+0;-9x – 9x = -9;1/2;3/4;-1/2;1/6;0
+0;4(x – 3) – (x – 5) = 0;x = 1/3;x = -3/7;x = 2/7; x = 7/3;3
+0;6 ÷ 2(1+2) = x;x=1;x=3;x=2;x=2.5;0
+0;If we throw two coins in the air, then the probability of getting both tails will be:;1/2;1/4;2;4;1
+0;A circle can have _____ parallel tangents at a single time.;One;Two;Three;Four;1
+0;If the area of a circle is 154 cm2, then its perimeter is;11cm;22cm;44cm;55cm;2

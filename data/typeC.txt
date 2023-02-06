@@ -1,0 +1,5 @@
+2;Which graph represents this equation? y=-0.5(2^x);c1a.png;c1b.png;c1c.png;c1d.png;3
+2;Out of the following Venn Diagrams which one represents the relationship between the following: animals, horses, dogs?;c2a.png;c2b.png;c2c.png;c2d.png;0;
+2;Which of the following figures correctly represents the relation between:Doctors, Lawyers, Professionals?;c3a.png;c3b.png;c3c.png;c3d.png;0
+2;Choose the Venn diagram which best illustrates the three given classes in each question:Copper, Paper, Wire;c4a.png;c4b.png;c4c.png;c4d.png;3
+2;Each of the following questions below contains three elements. These elements may or may not have some inter se linkage. Each group of the elements may fit into one of the diagrams at (a), (b), (c), (d) and (e). You have to indicate the group of elements which correctly fits into the diagrams. Vegetable, Brinjal, Cauliflower;c5a.png;c5b.png;c5c.png;c5d.png;3
